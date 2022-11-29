@@ -33,7 +33,7 @@
 -	OnCollisionEnter fonksiyonu nesnelerin birbirine çarpısmasını denetler:
     * eğer iki cisim çarpıştıysa zarar ver ve 3 ten fazla çarpıstıysa tahtayı kaldır.
     
-## Ekip Arkadaşlarımın Geliştirdiği Kısımlar ve Kodladığı Scriptler (**Veysi BEYAZ **)
+## Ekip Arkadaşlarımın Geliştirdiği Kısımlar ve Kodladığı Scriptler (Veysi BEYAZ)
 
 ### dur.cs
 - Pause modunu birçok oyunda görmüşsünüzdür bu kodda pause modu kullanıldı. Burada Unity’nin zaman ölçeği olan Time.timeScale değişkeni kullanıldı. 
